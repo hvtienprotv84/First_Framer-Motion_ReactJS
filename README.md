@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.reskue.tech/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freskue-prismic%2FZgLR3ccYqOFdyFsm_FramerMotion.png%3Fauto%3Dformat%2Ccompress&w=3840&q=75" width="200"/>
+    <img src="https://www.reskue.tech/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Freskue-prismic%2FZgLR3ccYqOFdyFsm_FramerMotion.png%3Fauto%3Dformat%2Ccompress&w=3840&q=75" width="500"/>
 </div>
 
 <div align="center">
